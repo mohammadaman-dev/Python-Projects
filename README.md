@@ -1,4 +1,9 @@
-# Python-Projects
+
+## Language
+Python
+
+## Author
+Mohammad Aman# Python-Projects
 
 My Python learning projects.
 
@@ -12,7 +17,7 @@ My Python learning projects.
 - Performs calculations repeatedly using loops
 - Demonstrates loop concepts and user input
 
-### 3. Calendar Project
+### 3. 🗓️ Calendar Project
 - Displays a monthly calendar
 - Takes year and month as input
 - Uses Python's built-in `calendar` module
@@ -28,3 +33,13 @@ A simple Python OOP project that manages student details, checks pass/fail statu
 * Calculate student grades
 * Uses Object-Oriented Programming (OOP)
   
+### 5. ⚠️ Exception Handling Project
+
+A beginner Python project demonstrating exception handling using `try`, `except`, `else`, `finally`, and `ValueError`.
+
+## Concepts Used
+- Exception Handling
+- try-except
+- else & finally blocks
+- raise keyword
+- User Input
